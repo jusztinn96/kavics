@@ -15,6 +15,12 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<mainClass>kavicsos_jatek.kavics.kezdokepernyo</mainClass>
  	</properties>
+ 	
+ 	<inceptionYear>2019</inceptionYear>
+	<organization>
+		<name>Debreceni Egyetem, Informatikai Kar</name>
+		<url>https://www.inf.unideb.hu/</url>
+	</organization>
   
  	<description>
 	4x4 kavics játék, melynek lényege, hogy két játékos felváltva vesz fel 1-4db kavicsot és az veszít, aki utolára lép.
